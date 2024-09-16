@@ -15,6 +15,5 @@ public class reverse {
             start++;
             end--;
         }
-
     }
 }
